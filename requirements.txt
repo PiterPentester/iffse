@@ -1,5 +1,5 @@
 annoy==1.8.3
-Jinja2==2.9.4
+Jinja2==2.10.1
 opencv-python==3.2.0.7
 peewee==2.10.1
 Pillow==4.1.1
